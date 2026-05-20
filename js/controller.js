@@ -66,7 +66,7 @@ exports.listSchools = (req, res) => {
 
       return {
         ...school,
-        distance: distance.toFixed(2) + " km",
+        distance: Number(distance.toFixed(2)),
       };
     });
 
