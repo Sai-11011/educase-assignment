@@ -214,11 +214,11 @@ BASE_URL_HERE
 Example:
 
 ```txt
-BASE_URL_HERE/addSchool
+https://educase-assignment-nine-sage.vercel.app/addSchool
 ```
 
 ```txt
-BASE_URL_HERE/listSchools?latitude=17.385&longitude=78.4867
+https://educase-assignment-nine-sage.vercel.app/listSchools?latitude=17.385&longitude=78.4867
 ```
 
 ---
